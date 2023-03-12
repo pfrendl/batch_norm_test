@@ -1,0 +1,5 @@
+dash==2.8.1
+einops==0.6.0
+plotly==5.13.1
+torch==1.13.1+cu117
+torchvision==0.14.1+cu117
