@@ -1,5 +1,5 @@
 # batch_norm_test
-This repository experimentally demonstrates on the CIFAR10 dataset that while batch normalization helps with classification, it can significantly hurt autoencoding performance. You can read more on this topic [here](https://pfrendl.substack.com/).
+This repository experimentally demonstrates on the CIFAR10 dataset that while batch normalization helps with classification, it can significantly hurt autoencoding performance. You can read more on this topic [here](https://pfrendl.substack.com/p/when-batch-normalization-hurts-performance).
 
 Results for classification:
 
